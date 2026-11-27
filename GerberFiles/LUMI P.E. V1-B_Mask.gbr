@@ -1,0 +1,29 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.5*%
+%TF.CreationDate,2026-11-18T19:31:45-08:00*%
+%TF.ProjectId,LUMI P.E. V1,4c554d49-2050-42e4-952e-2056312e6b69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.5) date 2026-11-18 19:31:45*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.700000X1.700000*%
+%ADD11C,1.700000*%
+%ADD12C,0.900000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J1*%
+X148625001Y-83400000D03*
+D11*
+X151165001Y-83400000D03*
+%TD*%
+D12*
+%TO.C,SW1*%
+X124590045Y-79781991D03*
+X122869315Y-82239448D03*
+%TD*%
+M02*

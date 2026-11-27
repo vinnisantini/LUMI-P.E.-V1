@@ -1,0 +1,13 @@
+(version 1)
+(rule "Minimum text height and thickness 2"
+	(constraint text_height (min 0.0625mm))
+	(constraint text_thickness (min 0.0625mm))
+)
+(rule "Via style 1"
+	(constraint via_diameter (min 0.25mm) (max 0.25mm))
+	(constraint hole_size (min 0.15mm) (max 0.15mm))
+	(condition "A.Via_Type == 'Through'")
+)
+(rule "Minimum drill size 1"
+	(constraint hole_size (min 0.2mm))
+)
